@@ -3,6 +3,8 @@
 
 This repo contains audio files of phone calls for testing.
 
+If you want to use Google Drive instead, [see these directions.]([url](https://docs.google.com/document/d/1L9F_42aZIi4S7hNQFhdiMttkqbpK2AcRNUr0Q2uQE3c/edit#heading=h.tcs2ys2ixjkz))
+
 To get the download url for a file, click on the file, then `Copy link address` from the `View raw` button, which adds `?raw=true` to the url.  
 
 e.g., the following have been successfully ingested:
